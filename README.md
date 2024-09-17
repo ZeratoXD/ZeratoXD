@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=audiowide&size=50&color=F8D847&center=true&vCenter=true&width=1250&height=100&lines=My+name+is+%C3%A9+Ivan+Dias;I´m+a+Backend+Developer;Focused+in+UX%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=audiowide&size=50&color=F8D847&center=true&vCenter=true&width=1250&height=100&lines=My+name+is+%C3%A9+Ivan+Dias;I´m+a+Backend+Developer;Focused+in+UX)](https://git.io/typing-svg)
 " My motto is to work hard to make life lighter! "
 
 
