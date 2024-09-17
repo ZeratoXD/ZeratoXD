@@ -1,5 +1,8 @@
 ## Hello! I'm Ivan Dias Fullstack Developer 👋
 
+" My motto is to work hard to make life lighter! "
+
+
 - 🌱 I’m currently learning Unit test with Spring
 - 📫 How to reach me: ivan_cassio_dias@hotmail.com
 
