@@ -14,7 +14,7 @@
   <img align="center" alt="Ivan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ivan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ivan-Java" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-<img align="center" alt="Ivan-Spring" height="30" width="40" src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img align="center" alt="Ivan-Spring" height="30" width="40" src = "https://camo.githubusercontent.com/6d836114e08a9f246b20f8b589a26010ddf99f37b90a157e1df38e19705a5ea5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f737072696e672f737072696e672d6f726967696e616c2e737667">
 </div>
   
   ##
