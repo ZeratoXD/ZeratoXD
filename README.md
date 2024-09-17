@@ -8,13 +8,13 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ivan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ivan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ivan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ivan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ivan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ivan-Java" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-<img align="center" alt="Ivan-Spring" height="30" width="40" src = "https://camo.githubusercontent.com/6d836114e08a9f246b20f8b589a26010ddf99f37b90a157e1df38e19705a5ea5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f737072696e672f737072696e672d6f726967696e616c2e737667">
+  <img align="center" alt="Ivan-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ivan-Ts" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Ivan-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ivan-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ivan-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ivan-Java" height="60" width="70" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+<img align="center" alt="Ivan-Spring" height="60" width="70" src = "https://camo.githubusercontent.com/6d836114e08a9f246b20f8b589a26010ddf99f37b90a157e1df38e19705a5ea5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f737072696e672f737072696e672d6f726967696e616c2e737667">
 </div>
   
   ##
