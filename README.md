@@ -21,7 +21,7 @@
 <div> 
   <a href = "https://github.com/ZeratoXD">
   <img height="180"<img src="https://github-readme-stats.vercel.app/api?username=ZeratoXD&show_icons=true&theme=transparent"></a> 
- <img height="180"<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeratoXD&langs_count=8"></a> 
+ <img height="180"<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeratoXD&layout=compact"></a> 
  
 </div>
 
