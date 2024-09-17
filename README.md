@@ -16,6 +16,18 @@
   
   ##
  
+
+## Stats
+<div> 
+  <a href = "https://github.com/ZeratoXD">
+  <img height="180"<img src="https://github-readme-stats.vercel.app/api?username=ZeratoXD&show_icons=true&theme=transparent"></a> 
+ <img height="180"<img src="https://github-readme-stats.vercel.app/api?username=ZeratoXD&show_icons=true&theme=radical"></a> 
+  </div>
+
+
+
+
+
 <div> 
   <a href = "ivan_cassio_dias@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ivan-cassio-dias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
